@@ -5,6 +5,7 @@
 <p align="center">
     <a href="#book-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#Ferramentas e Dependências">Ferramentas e Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#cloud-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#memo-licença">Licença</a>
@@ -53,20 +54,19 @@ O projeto está hospedado no Github Pages
 
 ## :rocket: Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
-<!-- ❌✔️ -->
-1. ✔️ (HTML)
-2. ✔️ (CSS)
-3. ✔️ (JS)
-- React
-- Typescript
-- Kowind
-- Vite
-- TailwindCSS
-- GraphQL
-- Apollo-Client
-- Graphql-Code-Generator
-- React-Router-DOM
-- GraphCMS
+- [TypeScript](https://www.typescriptlang.org)
+- [ReactJS](https://pt-br.reactjs.org)
+- [Vite](https://vitejs.dev)
+- [GraphCMS](https://graphcms.com)
+
+## ⚙ Ferramentas e Dependências
+- [ApolloClient](https://www.npmjs.com/package/@apollo/client)
+- [GraphQL](https://www.npmjs.com/package/graphql)
+- [Tailwind using Postcss](https://tailwindcss.com/docs/installation/using-postcss)
+- [Phosphor React](https://www.npmjs.com/package/phosphor-react)
+- [Date-fns](https://www.npmjs.com/package/date-fns)
+- [Vime.js](https://vimejs.com)
+- [React Router DOM](https://www.npmjs.com/package/react-router-dom)
 
 
 ## 🔖Layout
