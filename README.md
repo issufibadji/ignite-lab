@@ -31,6 +31,26 @@ O **new-years**
 O projeto está hospedado no Github Pages
 >https://issufibadji.github.io/new-years/
 
+```shell
+  git clone https://github.com/issufibadji/ignite-lab.git
+
+  # go to folder
+
+  cd ignite-lab
+
+  # run yarn or npm run dev
+
+  yarn
+
+  # run the app with yarn dev or npm run dev
+
+  yarn dev
+
+  # after the app is running, you can acess it on the browser with the following link:
+  # http://localhost:3000/
+
+```
+
 ## :rocket: Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 <!-- ❌✔️ -->
@@ -53,25 +73,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 Para visualizar o layout do projeto crie ou acesse sua conta no [dribbble](dribbble.com) e [desse link](https://dribbble.com/shots/7597877-New-Year-is-coming) para acessá-lo.
 
 
-```shell
-  git clone https://github.com/issufibadji/ignite-lab.git
 
-  # go to folder
-
-  cd ignite-lab
-
-  # run yarn or npm run dev
-
-  yarn
-
-  # run the app with yarn dev or npm run dev
-
-  yarn dev
-
-  # after the app is running, you can acess it on the browser with the following link:
-  # http://localhost:3000/
-
-```
 
 
 ## :memo: Licença
