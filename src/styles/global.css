@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  line-height: 1.6;
+}
+body {
+  @apply bg-ignite-gray-1 text-ignite-white;
+  -webkit-font-smoothing: antialiased;
+}
