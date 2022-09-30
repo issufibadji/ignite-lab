@@ -1,4 +1,4 @@
-<p align="center"><img width="150" src="./src/assets/img/favicon.svg"> <img width="150" src="https://github.com/tela.png">
+<p align="center"><img width="150" src="./src/assets/img/favicon.svg"> <img width="150" src="src/assets/img/tela.png">
 
 # <p align="center"> Ignite Lab
 
