@@ -69,10 +69,11 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [React Router DOM](https://www.npmjs.com/package/react-router-dom)
 
 
-## 🔖Layout
-Para visualizar o layout do projeto crie ou acesse sua conta no [dribbble](dribbble.com) e [desse link](https://dribbble.com/shots/7597877-New-Year-is-coming) para acessá-lo.
+## 🔖 Layout
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1120711251998877938). É necessário ter conta no [Figma](https://www.figma.com) para acessá-lo.
 
-
+## 📚 Material Complementar
+Acesse o material complementar do projeto por meio [desse link](https://efficient-sloth-d85.notion.site/Aula-02-b6a8a061e55e4d2c9a5c068c6ed492c3)
 
 
 
