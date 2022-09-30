@@ -25,9 +25,8 @@
 ![new-years](https://github.com/issufibadji/ignite-lab/blob/master/src/assets/img/tela.png)
 
 ## :book: Sobre
-O **new-years**
- ## Aplicação desenvolvida durante o evento Ignite Lab da [@Rocketseat](https://github.com/rocketseat), inspirado no layout de [dribbble](dribbble.com)
-
+O **Ignite Lab**
+ ## Aplicação desenvolvida durante o evento Ignite Lab da [@Rocketseat](https://github.com/rocketseat)
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
 >https://issufibadji.github.io/new-years/
@@ -59,11 +58,11 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Vite](https://vitejs.dev)
 - [GraphCMS](https://graphcms.com)
 
-## ⚙ Ferramentas e Dependências
+## ⚙Ferramentas e Dependências
 - [ApolloClient](https://www.npmjs.com/package/@apollo/client)
 - [GraphQL](https://www.npmjs.com/package/graphql)
 - [Tailwind using Postcss](https://tailwindcss.com/docs/installation/using-postcss)
-- [Phosphor React](https://www.npmjs.com/package/phosphor-react)
+- [Phosphor React](https://www.npmjs.com/package/phosphor-react)new-yearsd
 - [Date-fns](https://www.npmjs.com/package/date-fns)
 - [Vime.js](https://vimejs.com)
 - [React Router DOM](https://www.npmjs.com/package/react-router-dom)
