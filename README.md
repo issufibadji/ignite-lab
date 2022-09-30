@@ -21,7 +21,7 @@
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/new-years?style=flat-square">
 </p>
 
-![new-years](https://github.com/issufibadji/new-years/blob/master/new-years.png)
+![new-years](https://github.com/issufibadji/ignite-lab/blob/master/src/assets/img/tela.png)
 
 ## :book: Sobre
 O **new-years**
