@@ -28,7 +28,7 @@
 
 O **Ignite Lab**
 
-## Aplicação desenvolvida durante o evento Ignite Lab da [@Rocketseat](https://github.com/rocketseat)
+Aplicação desenvolvida durante o evento Ignite Lab da [@Rocketseat](https://github.com/rocketseat)
 
 ## :cloud: Deploy
 
